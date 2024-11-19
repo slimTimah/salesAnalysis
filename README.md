@@ -41,4 +41,3 @@ sales.drop('link', axis=1, inplace=True)
 - Tesco store in South London recorder the ighest sales while Tesc store in Norh London recorder the lowest sales
 - The day with the lowest sales is Monday while the day with highest sales is Sunday
 
-- 
