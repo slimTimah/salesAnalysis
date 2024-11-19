@@ -4,7 +4,7 @@ This sales analysis describes different activities in a sales company including 
 ### Project Title
 Sales Analysis of Products in Tesco
 
-###Aims and Objectives
+### Aims and Objectives
 - Highlight significant sales trends
 - Spot patterns affecting sales projection
 - Provide strategic suggestions for future sales
