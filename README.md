@@ -20,7 +20,7 @@ Sales Analysis of Products in Tesco
 - An empty column was dropped
 - Null values were removed
 - From theage column, the nmean values were used to replace the null values
-- Non-numeric values were removed from the salescolumn t low aggregationof sales column
+- Non-numeric values were removed from the salescolumn to low aggregation of sales column
 
 ### Exploratory Data Analysis
 - The lowest/highes selling tsco store was identified
